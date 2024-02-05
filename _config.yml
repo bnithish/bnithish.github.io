@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bnithish.github.io" # the base hostname & protocol for your site
 
 # Build settings
-theme: minima
+remote_theme: fongandrew/hydeout
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
